@@ -36,7 +36,7 @@ Currently exploring how development and DevOps work together to deliver fast, re
 
 ### 🌍 Connect with Me
 📧 **Email:** [saranya.work.dev@gmail.com](mailto:saranya.work.dev@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/saranya-sankar]((https://www.linkedin.com/in/saranya-s-d5 ))  
+💼 **LinkedIn:** [linkedin.com/in/saranya-sankar]([https://www.linkedin.com/in/saranya-s-d5 ])  
 🌐 **Portfolio:** Coming Soon 🚧  
 
 ---
